@@ -1,6 +1,6 @@
 # Doon-University
 Name- Hitesh Shrivastava   
-Semester- 3rd  
+Semester- 6th 
 Roll id- 22CS14  
-Subject- c++  
+Subject- java 
 Course- Bsc C.S (Hons) with Research
